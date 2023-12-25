@@ -1,0 +1,66 @@
+/*https://ohcmotosbh.com.br/*/
+* {
+    margin: 0;
+}
+
+.titulo {
+    padding: 25px 0 15px 25px;
+    font-size: 27px;
+}
+
+#menu-topo{
+    background: #ce1e27;
+}
+
+#logo img{
+    width: 100%;
+    height: 220px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+}
+
+.links a{
+    text-decoration: none;
+    padding: 15px 30px 15px 30px;
+    color: white;
+    font-size: 23px;
+}
+
+.links a:hover{
+    transform: scale(1.5);
+}
+
+#quem-somos p {
+    margin: 0 45px 0 45px;
+    padding: 0 15px 10px 15px;
+    font-size: 25px;
+}
+
+#servicos-imagem {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#servicos-imagem figure {
+    padding: 5px;
+    margin: 4px;
+    width: calc(100% / 2 - 20px);
+    border: solid 0.1px black;
+}
+
+#servicos-imagem img {
+    width: 100%;
+    height: 92%;
+}
+
+#servicos-imagem a:hover {
+    transform: scale3d(1.2);
+}
+
+#servicos-imagem figcaption{
+    text-align: center;
+    font-size: 21px;
+}
