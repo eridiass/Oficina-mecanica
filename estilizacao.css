@@ -160,7 +160,7 @@ footer {
     }
 
     #quem-somos p {
-        font-size: 13px;
+        font-size: 14px;
     }
 
     #servicos-imagem {
@@ -183,10 +183,14 @@ footer {
     }
 
     #clientes p {
-        font-size: 17px;
+        font-size: 14px;
         padding-right: 25px;
     }
     
+    #clientes h5 {
+        font-size: 12px;
+    }
+
     iframe {
         padding-bottom: 25px;
         width: 100%;
@@ -194,7 +198,7 @@ footer {
     }
 
     footer {
-        font-size: 12px;
+        font-size: 10px;
     }
 
 }
