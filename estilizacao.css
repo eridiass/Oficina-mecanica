@@ -150,7 +150,7 @@ footer {
         height: 80%;
     }
     .titulo {
-        font-size: 37px;
+        font-size: 17px;
     }
 
 /*    .links a[disabled]:hover{
@@ -175,7 +175,7 @@ footer {
 
     .links a{
         padding: 7px;
-        font-size: 17px;
+        font-size: 12px;
         justify-items: stretch;
     }
 
