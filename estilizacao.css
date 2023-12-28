@@ -153,30 +153,10 @@ footer {
         font-size: 17px;
     }
 
-/*    .links a[disabled]:hover{
-        transform: scale(0);
-    }
-    
-    .links {
-    display: flex;
-    justify-content: center;
-}
-
-.links a{
-    text-decoration: none;
-    padding: 15px 30px 15px 30px;
-    color: white;
-    font-size: 23px;
-}
-
-.links a:hover{
-    transform: scale(1.5);
-}*/
-
     .links a{
         padding: 7px;
-        font-size: 12px;
-        justify-items: stretch;
+        font-size: 14px;
+        /*justify-items: stretch;*/
     }
 
     #quem-somos p {
