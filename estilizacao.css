@@ -14,7 +14,7 @@
 
 #logo img{
     width: 100%;
-    height: 220px;
+    height: 90%;
 }
 
 .links {
@@ -71,7 +71,7 @@
     font-size: 15px;
     margin-bottom: 15px;
     padding-left: 45px;
-    color: rgb(94, 94, 94);
+    color: gray;
     font-weight: bold;
     font-style: italic;
 }
@@ -145,9 +145,12 @@ footer {
 }
 
 @media (max-width: 400px) {
-        
+    #logo img{
+        width: 100%;
+        height: 80%;
+    }
     .titulo {
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .links a[disabled]:hover{
@@ -155,7 +158,7 @@ footer {
     }
 
     .links a{
-        padding: 12px;
+        padding: 7px;
         font-size: 17px;
     }
 
