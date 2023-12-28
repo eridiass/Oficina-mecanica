@@ -160,6 +160,8 @@ footer {
     .links a{
         padding: 7px;
         font-size: 17px;
+        flex-wrap: wrap;
+        align-content: space-between;
     }
 
     #quem-somos p {
