@@ -150,7 +150,7 @@ footer {
         height: 80%;
     }
     .titulo {
-        font-size: 17px;
+        font-size: 27px;
     }
 
     .links a[disabled]:hover{
@@ -161,7 +161,7 @@ footer {
         padding: 7px;
         font-size: 17px;
         flex-wrap: wrap;
-        align-content: space-between;
+        align-content: center;
     }
 
     #quem-somos p {
