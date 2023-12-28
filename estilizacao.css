@@ -64,6 +64,7 @@
 #clientes p {
     font-size: 19px;
     padding-left: 45px;
+    font-style: italic;
 }
 
 #clientes h5 {
@@ -71,6 +72,8 @@
     margin-bottom: 15px;
     padding-left: 45px;
     color: rgb(94, 94, 94);
+    font-weight: bold;
+    font-style: italic;
 }
 
 iframe {
@@ -142,8 +145,9 @@ footer {
 }
 
 @media (max-width: 400px) {
-        .titulo {
-        font-size: 20px;
+        
+    .titulo {
+        font-size: 18px;
     }
 
     .links a[disabled]:hover{
@@ -152,10 +156,6 @@ footer {
 
     .links a{
         padding: 12px;
-        font-size: 17px;
-    }
-
-    .titulo {
         font-size: 17px;
     }
 
