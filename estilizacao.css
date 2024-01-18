@@ -89,7 +89,7 @@ footer {
 
 @media (min-width: 401px) and (max-width: 550px) {
 
-    .links a[disabled]:hover{
+    .links a:hover{
         transform: scale(0);
     }
 
@@ -142,6 +142,11 @@ footer {
 }
 
 @media (max-width: 400px) {
+
+    .links a:hover{
+        transform: scale(0);
+    }
+    
     #logo img{
         width: 100%;
         height: 80%;
